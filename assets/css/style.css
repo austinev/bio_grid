@@ -17,27 +17,33 @@
     float:left;
     width:20%;
     height:50px;
-    font-size:10px;
+    font-size:20px;
     color:white;
     background-color:#4aaaa5;
     float:left;
     font-family: 'Georgia', Times, 'Times New Roman', serif;
-    /* display:flex;
-    flex-direction:row;
-    justify-content:center;
-    flex-direction:column;
-    justify-content:center;
-    align-content:space-around; */
-    /* padding-left:20px; */
+    padding-top:7px;
     text-align:center;
 }
+.header_links{
+    color:red;
+}
 
+#header-row{
+    border-bottom-style:solid;
+    border-bottom-color:#cccccc;
+    border-bottom-width:1px;
+}
 .navbar-brand{
     float:right;
 }
 
 .bg-light {
     background-color:white;
+}
+
+.col-2 .col-4{
+    border-style:solid;
 }
 
 /* Custom page CSS
