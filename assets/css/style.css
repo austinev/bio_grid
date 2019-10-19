@@ -114,6 +114,29 @@ justify-content:center; */
 #copyright{
     color:white;
 }
+
+label{
+    margin-bottom:5px;
+}
+
+input{
+    margin-top:10px;
+    margin-bottom:10px;
+    
+}
+
+#message{
+    height:100px;
+}
+
+#submit{
+    width:100px;
+    height:35px;
+    color:white;
+    background-color:#4aaaa5;
+}
+
+
 /* Custom page CSS
 -------------------------------------------------- */
 /* Not required for template or sticky footer method. */
